@@ -28,7 +28,7 @@ const scene = new THREE.Scene()
  * Textures
  */
 const textureLoader = new THREE.TextureLoader()
-const matcapTexture = textureLoader.load('/textures/matcaps/3.png')
+const matcapTexture = textureLoader.load('/textures/matcaps/8.png')
 matcapTexture.colorSpace = THREE.SRGBColorSpace
 
 
